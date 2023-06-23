@@ -7,7 +7,7 @@ def is_palindrome(word):
     if word == word[::-1]:
         return True
     else:
-        return Falseg
+        return False
 
 def roll_dice():
     # Simulate rolling two dice
